@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLRequest>
+    <ClientType>iPhone</ClientType>
+    <ClientVersion>4.0</ClientVersion>
+    <ServiceVersion>1.0</ServiceVersion>
+    <Locale>en_GB</Locale>
+    <ServiceName>AccountSummaryService</ServiceName>
+    <DeviceInfo>
+        <HardwareId>{{hardwareID}}</HardwareId>
+        <OSBuild>iPhone OS 6.0.1</OSBuild>
+        <DeviceModel>iPhone</DeviceModel>
+        <Timestamp>{{timestamp}}</Timestamp>
+        <TimeZoneOffset>0</TimeZoneOffset>
+    </DeviceInfo>
+    <LoginCredentials>
+        <UserID>{{userID}}</UserID>
+        <Password>{{password}}</Password>
+        <RememberMeUIFlagSelected>false</RememberMeUIFlagSelected>
+        <ProfileDataContent></ProfileDataContent>
+    </LoginCredentials>
+</XMLRequest>

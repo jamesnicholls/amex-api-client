@@ -1,0 +1,16 @@
+{
+  "name": "amex-api-client",
+  "version": "1.0.0",
+  "description": "Javascript client for American Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <jamesnicholls11@gmail.com>",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "mustache": "^2.3.0",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.23"
+  }
+}
