@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLResponse>
+    <ServiceResponse>
+        <Status>success</Status>
+        <Message></Message>
+        <MessageCode>0000</MessageCode>
+    </ServiceResponse>
+    <ClientSecurityToken>bdf1dd3dcc7cdad4e21ab2b4fcf3d1a8</ClientSecurityToken>
+    <GateKeeperCookie>95B07EA8DFD9734FA76E7B1335A890FCDAC5A4E4AB50A069CE9EC25C50254692A65057537ABF012D3C1260D000A9280F3A5A99E65D86AE39E543A4CFFA916E37C00E354D14B3CF5E69A84705799C559B605A0CCF774713ED6644D322AAB96542EAE19E59E380416543A1D64CB43870CCA147218876FD002A2A9D611490F391AB398E1F4AFA9C27A68733FED25EFE78970BE6F29FEBC5D64FCA459C4DF33CE7EF041EE60A853ED918CB226B311A1F1AB5128FA0D02A41EA8EC3DF5B537BECEB63F8C1E1D4BC29106D9C84EF97DE20A2C51F161EBF478C1718BE035EBA65CAEC15</GateKeeperCookie>
+    <ReAuthFlowEnabled>true</ReAuthFlowEnabled>
+    <Blueboxpublic>33755f52e90bc254afb9f55046c70380</Blueboxpublic>
+    <CardAccounts>
+        <CardAccount>
+            <CardData>
+                <param name="cardProduct" type="string">British Airways American Express Credit Card</param>
+                <param name="cardIndex" type="string">0</param>
+                <param name="cardNumberSuffix" type="string">32009</param>
+                <param name="lendingType" type="string">Revolve</param>
+                <param name="cardMemberName" type="string">MR J S NICHOLLS</param>
+                <param name="pastDue" type="boolean">false</param>
+                <param name="cancelled" type="boolean">false</param>
+                <param name="isBasic" type="boolean">true</param>
+                <param name="IsCenturion" type="boolean">false</param>
+                <param name="IsPlatinum" type="boolean">false</param>
+                <param name="IsPremium" type="boolean">false</param>
+                <param name="IsCobrand" type="boolean">true</param>
+                <param name="market" type="string">en_GB</param>
+                <param name="cardArt" type="string">https://secure.cmax.americanexpress.com/Internet/CardArt/EMEA/gb-cardasset-config/images/GGBBACD00001.gif</param>
+                <param name="loyaltyIndicator" type="boolean">false</param>
+                <param name="cardArt_s3" type="string">https://secure.cmax.americanexpress.com/Internet/CardArt/EMEA/gb-cardasset-config/images/GGBBACD00001S3.gif</param>
+                <param name="paymentHistoryEligible" type="boolean">false</param>
+                <param name="paymentEligible" type="boolean">true</param>
+                <param name="nearbyPlacesEnabled" type="boolean">true</param>
+            </CardData>
+            <AccountSummaryData elementCount="7">
+                <SummaryElement name="availableCredit" type="double" label="Available Credit:" value="7332.0" formattedValue="£7,332.00"/>
+                <SummaryElement name="stmtBalance" type="double" label="Last Statement Balance:" value="437.77" formattedValue="£437.77"/>
+                <SummaryElement name="paymentCredits" type="double" label="Payments & Credits:" value="0.0" formattedValue="£0.00"/>
+                <SummaryElement name="recentCharges" type="double" label="Recent Charges:" value="117.15" formattedValue="£117.15"/>
+                <SummaryElement name="totalBalance" type="double" label="Total Balance:" value="554.92" formattedValue="£554.92"/>
+                <SummaryElement name="paymentDue" type="double" label="Payment Due:" value="25.0" formattedValue="£25.00"/>
+                <SummaryElement name="paymentDueDate" label="Due On:" formattedValue="21 Dec 2016"/>
+            </AccountSummaryData>
+            <LoyaltyProgramData>
+                <LoyaltyElement name="programBalance" type="double" label="British Airways" formattedValue="177"/>
+            </LoyaltyProgramData>
+            <DDMessage>
+                <param name="directDebit" type="string">Direct Debit scheduled for £437.77 on 10 Dec 2016.</param>
+            </DDMessage>
+        </CardAccount>
+    </CardAccounts>
+    <OfferEnablingFlags>
+        <OffersEnabled>true</OffersEnabled>
+        <TimelineEnabled>false</TimelineEnabled>
+    </OfferEnablingFlags>
+    <PremiumDetails>
+        <isPremiumEnabled>false</isPremiumEnabled>
+    </PremiumDetails>
+    <CookieDomain>.americanexpress.com</CookieDomain>
+    <PnPDetails>
+        <PnPEnabled>true</PnPEnabled>
+    </PnPDetails>
+</XMLResponse>

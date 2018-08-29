@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLResponse>
+    <ServiceResponse>
+        <Status>success</Status>
+        <Message/>
+        <MessageCode>0000</MessageCode>
+    </ServiceResponse>
+    <ClientSecurityToken>61274cbcee6f5714766747db5f9a4532</ClientSecurityToken>
+    <Blueboxpublic>33755f52e90bc254afb9f55046c70380</Blueboxpublic>
+    <StatementDetails>
+        <BillingPeriod>
+            <BillingPeriodTitle>Since 27 Nov 2016</BillingPeriodTitle>
+            <CurrentStatementPeriodTitle>27 Oct 2016 to 26 Nov 2016</CurrentStatementPeriodTitle>
+        </BillingPeriod>
+        <CardAccounts>
+            <CardAccount>
+                <CardData>
+                    <CardNumberSuffix>32009</CardNumberSuffix>
+                    <CardMemberName>MR J S NICHOLLS</CardMemberName>
+                    <IsBasic>true</IsBasic>
+                </CardData>
+                <TransactionDetails>
+                    <Transaction>
+                        <TransChargeDate>12/04/16</TransChargeDate>
+                        <TransDesc>WAITROSE - FULHAM LONDON</TransDesc>
+                        <TransAmount>19.54</TransAmount>
+                        <FormattedTransAmount>£19.54</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>12/02/16</TransChargeDate>
+                        <TransDesc>BASILICO LONDON</TransDesc>
+                        <TransAmount>15.10</TransAmount>
+                        <FormattedTransAmount>£15.10</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>12/01/16</TransChargeDate>
+                        <TransDesc>TFL TRAVEL CHARGE TFL.GOV.UK/CP</TransDesc>
+                        <TransAmount>4.50</TransAmount>
+                        <FormattedTransAmount>£4.50</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/30/16</TransChargeDate>
+                        <TransDesc>PRET A MANGER LONDON</TransDesc>
+                        <TransAmount>4.98</TransAmount>
+                        <FormattedTransAmount>£4.98</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/30/16</TransChargeDate>
+                        <TransDesc>TFL TRAVEL CHARGE TFL.GOV.UK/CP</TransDesc>
+                        <TransAmount>5.30</TransAmount>
+                        <FormattedTransAmount>£5.30</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/29/16</TransChargeDate>
+                        <TransDesc>TFL TRAVEL CHARGE TFL.GOV.UK/CP</TransDesc>
+                        <TransAmount>5.80</TransAmount>
+                        <FormattedTransAmount>£5.80</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/28/16</TransChargeDate>
+                        <TransDesc>TFL TRAVEL CHARGE TFL.GOV.UK/CP</TransDesc>
+                        <TransAmount>6.50</TransAmount>
+                        <FormattedTransAmount>£6.50</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/27/16</TransChargeDate>
+                        <TransDesc>TFL TRAVEL CHARGE TFL.GOV.UK/CP</TransDesc>
+                        <TransAmount>6.50</TransAmount>
+                        <FormattedTransAmount>£6.50</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/27/16</TransChargeDate>
+                        <TransDesc>WWW.FARM-DIRECT.COM LONDON</TransDesc>
+                        <TransAmount>23.98</TransAmount>
+                        <FormattedTransAmount>£23.98</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/26/16</TransChargeDate>
+                        <TransDesc>TESCO SELF SERVICE LONDON</TransDesc>
+                        <TransAmount>3.01</TransAmount>
+                        <FormattedTransAmount>£3.01</FormattedTransAmount>
+                    </Transaction>
+                    <Transaction>
+                        <TransChargeDate>11/25/16</TransChargeDate>
+                        <TransDesc>WAITROSE - FULHAM LONDON</TransDesc>
+                        <TransAmount>21.94</TransAmount>
+                        <FormattedTransAmount>£21.94</FormattedTransAmount>
+                    </Transaction>
+                </TransactionDetails>
+            </CardAccount>
+        </CardAccounts>
+    </StatementDetails>
+</XMLResponse>
